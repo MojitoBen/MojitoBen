@@ -1,16 +1,19 @@
-### Hi there 👋
+### welcome 👋 this is ben
 
-<!--
-**MojitoBen/MojitoBen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently working on neural architecture
+- 🔜 Contact me: line&wx:charm19951219 
+- 🏢 Homepage(building): https://mojitoben.github.io
+- 😇 DC: https://discord.gg/gMK474Rre4
 
-Here are some ideas to get you started:
+### You might be insterested
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+| Repository                                                   | Introduction                                                 |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [AI-Drawing](https://github.com/MojitoBen/AI-Drawing) | Use midjourney and stable diffusion to generate images      |
+| [Direction_count](https://github.com/MojitoBen/ACE_0324_/tree/main/Direction_Check) | Calculate traffic flow and direction for the selected objects (vehicles) in the COCO model. |
+| [License_detect](https://github.com/MojitoBen/ACE_0324_/tree/main/license_detect) | Detect regular license plates and license plate numbers, suitable for automated parking lot systems.       |
+| [Steel_label_detect](https://github.com/MojitoBen/ACE_0324_/tree/main/steel_label) | Yolov4 recognition system for identifying steel coil labels and label numbers. |
+| [Steel_paint_detect](https://github.com/MojitoBen/ACE_0324_/tree/main/steel_paint) | Yolov4 recognition system for identifying printed and handwritten text on steel coils, including text content and text numbers.                |
+
+
