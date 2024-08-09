@@ -3,7 +3,7 @@
 - 🌱 I’m currently working on neural architecture
 - 🔜 Contact me: line&wx:charm19951219 
 - 🏢 Homepage(building): https://mojitoben.github.io
-- 😇 DC: https://discord.gg/gMK474Rre4
+- 😇 Discord: https://discord.gg/gMK474Rre4
 
 ### You might be insterested
 
