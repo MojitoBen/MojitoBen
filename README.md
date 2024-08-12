@@ -15,5 +15,6 @@
 | [License_detect](https://github.com/MojitoBen/ACE_0324_/tree/main/license_detect) | Detect regular license plates and license plate numbers, suitable for automated parking lot systems.       |
 | [Steel_label_detect](https://github.com/MojitoBen/ACE_0324_/tree/main/steel_label) | Yolov4 recognition system for identifying steel coil labels and label numbers. |
 | [Steel_paint_detect](https://github.com/MojitoBen/ACE_0324_/tree/main/steel_paint) | Yolov4 recognition system for identifying printed and handwritten text on steel coils, including text content and text numbers.                |
+| [AI Pillar](https://github.com/MojitoBen/CarPlateRecognition/tree/main/pillar) | Yolov8 recognition system for gathering carplate and etag number infomations.           |
 
 
